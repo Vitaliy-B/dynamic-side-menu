@@ -1,5 +1,6 @@
 # Dynamic Side Menu
 Simple Android application with dynamic menu
+
 -------------------------------------
 
 Application loads json from server and displays navigation menu dynamically from its content. 
